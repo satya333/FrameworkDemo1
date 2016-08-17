@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="32" started-at="2016-08-17T07:24:43Z" finished-at="2016-08-17T07:24:43Z">
+  <suite name="Suite" duration-ms="62" started-at="2016-08-17T08:52:25Z" finished-at="2016-08-17T08:52:25Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="32" started-at="2016-08-17T07:24:43Z" finished-at="2016-08-17T07:24:43Z">
+    <test name="Test" duration-ms="62" started-at="2016-08-17T08:52:25Z" finished-at="2016-08-17T08:52:25Z">
       <class name="com.framework.Demo1">
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.framework.Demo1@506e6d5e]" name="test1" duration-ms="16" started-at="2016-08-17T12:54:43Z" finished-at="2016-08-17T12:54:43Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.framework.Demo1@4411d970]" name="test1" duration-ms="16" started-at="2016-08-17T14:22:25Z" finished-at="2016-08-17T14:22:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:com.framework.Demo1@506e6d5e]" name="test2" duration-ms="0" started-at="2016-08-17T12:54:43Z" finished-at="2016-08-17T12:54:43Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test2 -->
       </class> <!-- com.framework.Demo1 -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
